@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    /* font-size: 1.5rem; */
+    font-weight: 500;
+    color: #fff;
+}
+
+/* .app_panel{
+    border: 1px solid black;
+} */

@@ -23,9 +23,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/aos/dist/aos.css"
             ],
-            "scripts": []
+            "scripts": ["node_modules/aos/dist/aos.js","src/assets/js/collapse.js","node_modules/p5/lib/p5.min.js",   
+            "src/assets/p5/square/square.js","src/assets/p5/spinning/spinning.js",
+            "src/assets/p5/loops/loops.js","src/assets/p5/round/round.js"
+          ]
           },
           "configurations": {
             "production": {
