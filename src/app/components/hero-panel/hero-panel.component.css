@@ -260,7 +260,7 @@ li a {
         height: 40px;
         position: absolute;
         top: 0px;
-        left: 0px;
+        left: 90%;
         cursor: pointer;
         opacity: 0;
         /* hide this */
@@ -272,6 +272,7 @@ li a {
     .burger{
         /* border: 1px solid red; */
         padding: 2% 2% 0% 2%;
+        float: right;
     }
 
     /*
