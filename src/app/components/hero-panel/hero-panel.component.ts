@@ -13,20 +13,20 @@ export class HeroPanelComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    var options = {
-      strings: ['^600Full stack developer.^600 Digital Artist.^600 Teacher.'],
-      typeSpeed: 20,
-      showCursor: false,
-      // smartBackspace: false,
-     // shuffle: true,
-      //startDelay: 1000,
-      // backDelay: 900,
-      // fadeOut: true,
-      //loop: true,
-      // loopCount: 3,
-    };
+    // var options = {
+    //   strings: ['^600Full stack developer.^600 Digital Artist.^600 Teacher.'],
+    //   typeSpeed: 20,
+    //   showCursor: false,
+    //   // smartBackspace: false,
+    //  // shuffle: true,
+    //   //startDelay: 1000,
+    //   // backDelay: 900,
+    //   // fadeOut: true,
+    //   //loop: true,
+    //   // loopCount: 3,
+    // };
     
-    var typed = new Typed('.element', options);
+    // var typed = new Typed('.element', options);
           
   }
 
