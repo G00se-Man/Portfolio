@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import Typed from 'typed.js';
-import { Router, NavigationEnd } from '@angular/router';
 
 
 @Component({

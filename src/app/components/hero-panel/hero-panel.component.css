@@ -98,11 +98,11 @@ li a {
 
 .element {
     display: grid;
-    color: red;
+    color: white;
     font-weight: bold;
     justify-content: center;
     align-content: center;
-    font-size: 3em;
+    font-size: 5rem;
 }
 
 .typing_text_container {
