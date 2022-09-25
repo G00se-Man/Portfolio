@@ -7,7 +7,7 @@
 .hero_wrapper {
     display: grid;
     grid-template-columns: 1fr 0.7fr;
-    grid-template-rows: 820px;
+    grid-template-rows: 50vw;
 }
 
 .left {
