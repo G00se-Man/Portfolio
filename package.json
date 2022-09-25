@@ -4,9 +4,11 @@
   "scripts": {
 
     "ng": "ng",
+    "start": "node server.js",
     "build": "ng build",
-    "watch": "ng build",
-    "test": "ng test"
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test",
+    "heroku-postbuild": "ng build --configuration production --aot"
   },
   "engines": {
     "node": "^16.10.0"
