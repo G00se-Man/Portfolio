@@ -58,19 +58,19 @@ export class SkillsPanelComponent implements OnInit {
         name:'Flutter'
       },
       {
-        image: './../../assets/skills/blender.png', // ./../../
+        image: 'assets/skills/blender.png', // ./../../
         name:'Blender'
       },
       {
-        image: './../../assets/skills/ps.png',
+        image: 'assets/skills/ps.png',
         name:'Photoshop'
       },
       {
-        image: './../../assets/skills/java.png',
+        image: 'assets/skills/java.png',
         name:'Java'
       },
       {
-        image: './../../assets/skills/firebase.png',
+        image: 'assets/skills/firebase.png',
         name:'Firebase'
       },
     ];
